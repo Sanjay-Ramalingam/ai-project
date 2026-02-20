@@ -1,0 +1,7 @@
+{
+  "General": { "module": "Introduction", "bloom": "Remember" },
+  "Q0": { "module": "Chapter 1 - Basics", "bloom": "Understand" },
+  "Q2": { "module": "Chapter 2 - Methods", "bloom": "Apply" },
+  "Q32": { "module": "Chapter 5 - Advanced Topics", "bloom": "Analyze" },
+  "Q5": { "module": "Chapter 3 - Design", "bloom": "Evaluate" }
+}
